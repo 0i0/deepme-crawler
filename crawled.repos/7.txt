@@ -1,3 +1,5 @@
 7ws/webkitcrawler
 7sDream/zhihu-py3
 710leo/urlooker
+7sDream/zhihu-oauth
+75lb/renamer

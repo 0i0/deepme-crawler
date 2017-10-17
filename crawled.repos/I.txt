@@ -17,3 +17,16 @@ IRkernel/IRkernel
 IanLunn/Hover
 IFTTT/RazzleDazzle
 Instagram/IGListKit
+Integ/BachEditor
+IonDen/ion.rangeSlider
+Intervention/image
+Ilhasoft/data-binding-validator
+IvanVorobei/RequestPermission
+IcaliaLabs/Presentr
+Inist-CNRS/node-inotifywait
+IBM/type
+Incenteev/ParameterHandler
+Invoiced/invoice-generator-api
+Innqube/ng2-iq-select2
+IntelLabs/hpat
+IdentityServer/IdentityServer4

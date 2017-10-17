@@ -30,3 +30,5 @@
 01sadra/GithubFa
 01sadra/IsTyping...
 0xAX/linux-insides
+0x73/SwiftIconFont
+0xAX/notificator

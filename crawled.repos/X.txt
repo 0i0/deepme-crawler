@@ -29,3 +29,12 @@ Xportability/css-to-pdf
 XiongJoJo/OFO
 XZTLLQ/LQPhotoPickerDemo
 Xiaomi6s/XJPage
+XiaoMi/shepher
+XiaoMi/chronos
+XIAZY/BiliBite
+XingxingHuang/deeplearning.ai
+Xethron/migrations-generator
+XiaoLer/blade
+XHJCoder/XHStarRateView
+XiaoQiWen/KRefreshLayout
+XiaoXiaoMuChen/MCXiaoHongShu

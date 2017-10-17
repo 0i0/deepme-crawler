@@ -1,1 +1,2 @@
 80percent/rails-template
+81813780/AVLoadingIndicatorView

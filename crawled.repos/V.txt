@@ -26,3 +26,12 @@ VolleyZ/ETPopupView
 ViccAlexander/Chameleon
 ViewDeck/ViewDeck
 Vaberer/Font-Awesome-Swift
+Viima/jquery-comments
+Vanthink-UED/vue-core-image-upload
+VanRoy/spring-cloud-dashboard
+ValveSoftware/source-sdk-2013
+VinceG/Bootstrap-Admin-Theme
+Vuedo/vuedo
+VulcanJS/Vulcan
+Vinelab/NeoEloquent
+Visu4link/pastec
