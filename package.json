@@ -1,0 +1,27 @@
+{
+  "name": "deepme-crawler",
+  "version": "0.0.1",
+  "author": "0i0 (Lior Leo Hakim)",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0i0/deepme-crawler.git"
+  },
+  "engines": {
+    "node": "=8.6.0",
+    "npm": "=5.3.0"
+  },
+  "dependencies": {
+    "forever": "^0.15.3",
+    "jsdom": ">=0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  },
+  "description": "![Screen](https://i.imgur.com/3Et0E1B.png)",
+  "bugs": {
+    "url": "https://github.com/0i0/nonky/issues"
+  },
+  "homepage": "https://github.com/0i0/nonky#readme",
+  "main": "app.js"
+}

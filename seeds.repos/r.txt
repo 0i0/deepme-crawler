@@ -1,0 +1,5 @@
+riversea2015/RSChat
+readium/SDKLauncher-iOS
+readium/readium-sdk
+react-community/react-navigation
+react-community/react-navigation
