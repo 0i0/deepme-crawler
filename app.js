@@ -5,7 +5,7 @@ const jsdom  = require("jsdom")
 const { JSDOM } = jsdom
 
 var minStars = 10
-   ,crawlInterval = 3000
+   ,crawlInterval = 300
 
 // fs.mkdirSync('crawled.users', 0744);
 // fs.mkdirSync('seeds.users', 0744);
@@ -66,6 +66,7 @@ function crawlUser(user,cb){
     })
     .catch(function(e) {
       console.log(e)
+      exit()
     });
     
 }
@@ -102,6 +103,7 @@ function crawlRepo(repo,cb){
     })
     .catch(function(e) {
       console.log(e)
+      exit()
     });
 }
 function addUserAsSeed(user){
@@ -228,10 +230,14 @@ function readSomeSeed(){
     var after = data.split('\n')
     console.log(after)
     var seed = after[0].split(',')[0]
-    crawlRepo(seed,function(){
-      removeRepoFromSeed(repoSeed)
-      logRepo(repoSeed)
-    })
+    if (!seed == '') {
+      crawlRepo(seed,function(){
+        removeRepoFromSeed(repoSeed)
+        logRepo(repoSeed)
+      })
+    }else{
+      readSomeSeed()
+    }
   })
 }
 
