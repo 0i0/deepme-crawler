@@ -16,7 +16,7 @@
     "jsdom": ">=0.0.1"
   },
   "devDependencies": {
-    "eslint": "^4.8.0"
+    "eslint": "^4.18.2"
   },
   "description": "![Screen](https://i.imgur.com/3Et0E1B.png)",
   "bugs": {
